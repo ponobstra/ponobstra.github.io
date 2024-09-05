@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ponobstra.github.io/sitemap.html.gz
+Sitemap: https://ponobstra.github.io/app/sitemap.html.gz
+Sitemap: https://ponobstra.github.io/assets/sitemap.html.gz
+Sitemap: https://ponobstra.github.io/css/sitemap.html.gz
+Sitemap: https://ponobstra.github.io/includes/sitemap.html.gz
+Sitemap: https://ponobstra.github.io/item/sitemap.html.gz
+Sitemap: https://ponobstra.github.io/src/sitemap.html.gz
